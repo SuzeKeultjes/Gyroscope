@@ -142,6 +142,9 @@ PlayerSettings:
   bundleVersion: 1.0.0
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: 8695473384206857141, guid: f1f31c63d8162ce4cb49c135119ba270, type: 2}
+  - {fileID: 11400000, guid: 0bee8800b9258f148bd4a8b99fda5f33, type: 2}
+  - {fileID: 11400000, guid: 1c2119cc87f88c54788b656046ab06f7, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -170,7 +173,7 @@ PlayerSettings:
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
-  AndroidBundleVersionCode: 2
+  AndroidBundleVersionCode: 5
   AndroidMinSdkVersion: 26
   AndroidTargetSdkVersion: 33
   AndroidPreferredInstallLocation: 1
@@ -264,8 +267,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/s.keultjes/OneDrive - COG/Bureaublad/Test_Build/user.keystore
-  AndroidKeyaliasName: test
+  AndroidKeystoreName: C:/Users/s.keultjes/Downloads/user.keystore
+  AndroidKeyaliasName: newtest123
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
